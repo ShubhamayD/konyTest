@@ -1,0 +1,116 @@
+{
+    "@class": "com.kony.gen.viz.model.component.KVizDateField",
+    "DNDConfig": null,
+    "Image": "calbtn.png",
+    "__id": "Form1_Calendar0fbd3c5b5452843",
+    "__input": "Calendar0fbd3c5b5452843",
+    "__parentReadjusting__": false,
+    "_data_": null,
+    "_date_": [
+        "25",
+        "8",
+        "2018"
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "40dp"
+    },
+    "_left_": {
+        "type": "string",
+        "value": "149dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_skin_": "s40cb6ef3d18499fb50767dfb579c68f",
+    "_startG": [
+        0,
+        "8",
+        "2018"
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "213dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "260dp"
+    },
+    "advview": "default",
+    "calendaricon": "calbtn.png",
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "contentalignment": 5,
+    "datecomponents": [
+        "25",
+        "8",
+        "2018"
+    ],
+    "dateeditable": true,
+    "dateformat": "dd/MM/yyyy",
+    "datesGroup": [],
+    "datesState": 0,
+    "day": "25",
+    "daytextalignmentincell": 5,
+    "displayedMonths": [
+        8,
+        2018
+    ],
+    "entereddate": [
+        "25",
+        "8",
+        "2018",
+        0,
+        0,
+        0
+    ],
+    "format": "dd/MM/yyyy",
+    "formatteddate": "25/08/2018",
+    "hidedaysheader": false,
+    "hidemonthsheader": false,
+    "hour": 22,
+    "id": "Calendar0fbd3c5b5452843",
+    "info": null,
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "a5dd3dccecc9469eada748204f54f8f9",
+    "minutes": 14,
+    "month": "8",
+    "monthsinrow": 3,
+    "name": "kony.ui.Calendar",
+    "navigatorAlert": "Invalid Selection",
+    "noofmonths": 1,
+    "pagedate": "/2018",
+    "parent": "Form1",
+    "pf": "Form1",
+    "popupHeight": "auto",
+    "popupWidth": "auto",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "seconds": 49,
+    "selectdate": "//2018",
+    "startDay": 0,
+    "viewtype": "default",
+    "wType": "Calendar",
+    "widgetalignment": 5,
+    "widths": [
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;",
+        "14.2857%;"
+    ],
+    "year": "2018",
+    "zindex": 1
+}

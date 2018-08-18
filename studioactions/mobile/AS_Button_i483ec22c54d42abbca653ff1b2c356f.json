@@ -1,0 +1,18 @@
+{
+    "AS_Button_i483ec22c54d42abbca653ff1b2c356f": {
+        "id": "AS_Button_i483ec22c54d42abbca653ff1b2c356f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }],
+        "contextObj": {
+            "name": "CopyHome",
+            "type": "forms",
+            "platform": null,
+            "KUID": "d650a3ae71464eb78f583fd14086b4dc"
+        },
+        "language": "js",
+        "actions": []
+    }
+}

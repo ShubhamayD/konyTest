@@ -1,0 +1,42 @@
+<properties>
+    <attributes name="appidkey" value="Sample"/>
+    <attributes name="mwaddrkey" value="10.10.23.1"/>
+    <attributes name="iospopuptransitioncorrection" value="true"/>
+    <attributes name="isNewAppWithRespectToAndroidPackageName" value="true"/>
+    <attributes name="iphonebundleversionkey" value="1.0"/>
+    <attributes name="iosrespectimagesizecorrection" value="true"/>
+    <attributes name="ioscheckboxcorrection" value="true"/>
+    <attributes name="apppackagekey" value="com.orgname.Sample"/>
+    <attributes name="winmangotiletitlekey" value="Sample"/>
+    <attributes name="andtargetsdkkey" value="4.0 (14)"/>
+    <attributes name="win8displaynamekey" value="Sample"/>
+    <attributes name="android_allowselfsignedcertificates" value="None"/>
+    <attributes name="iphonebundleidentifierkey" value="com.kony.Sample"/>
+    <attributes name="appnamekey" value="Sample"/>
+    <attributes name="currentgaversion" value="3.0.0.qualifier"/>
+    <attributes name="appversionkey" value="1.0.0"/>
+    <attributes name="project.type" value="js"/>
+    <attributes name="sessionmanager" value="Http Session Manager"/>
+    <attributes name="vendornamekey" value="KonyLabs"/>
+    <attributes name="appversioncode" value="1"/>
+    <attributes name="createdgaversion" value="8.1.0"/>
+    <attributes name="isDpScaleFactor" value="true"/>
+    <attributes name="iostextboxpaddingcorrection" value="true"/>
+    <attributes name="win6xj2meonlysupported" value="false"/>
+    <attributes name="wp10displayname" value="Sample"/>
+    <attributes name="referenceWidth" value="375"/>
+    <attributes name="build" value="debug"/>
+    <attributes name="studiovizproject" value="true"/>
+    <attributes name="marginsincludedinwidgetcontainerweight" value="true"/>
+    <attributes name="mwportkey" value="80"/>
+    <attributes name="mwhttpsportkey" value="443"/>
+    <attributes name="APPLICATION_THEME" value="default"/>
+    <attributes name="SELECTED_THEME" value="default"/>
+    <attributes name="lastmodifiedtime" value="0"/>
+    <attributes name="Server side mobile web" value="false"/>
+    <attributes name="cloud_url" value="https://m100024149001.konycloud.com"/>
+    <attributes name="cloud_env_name" value="TW - yozitdas-M100024149001"/>
+    <attributes name="cloud_env_GUID" value="f2265aae-c1b9-480b-af61-5b755413962a"/>
+    <attributes name="cloud_account_id" value="100024149"/>
+    <attributes name="cloud_account_guid" value="ce79d388-4071-421b-bf80-ab14d6e41b1e"/>
+</properties>
