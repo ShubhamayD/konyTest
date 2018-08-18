@@ -42,8 +42,11 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "Calendar0fbd3c5b5452843",
-        "CopyCalendar0dfb5ddc741c940"
+        "lblServices",
+        "Label0c99d0b5b41134b",
+        "lblPaylahReleaseVersion",
+        "lblBroadcastMessage",
+        "Label0cea958c6dcbf48"
     ],
     "containerweight": 100,
     "controllerInfo": {
