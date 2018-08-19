@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "201dp"
+        "value": "202dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s534840db017463f9b9aa1711f5321be",
-    "_text_": "Services",
+    "_skin_": "sa5ae4ea65494040acd3cef767cd1d9c",
+    "_text_": "Audit log",
     "_top_": {
         "type": "string",
-        "value": "107dp"
+        "value": "395dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,8 +41,8 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 6,
-    "id": "lblServices",
+    "contentalignment": 5,
+    "id": "lblAuditLog",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,7 +56,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f27b7288c71442b5ba9d06af5bc1e628",
+    "kuid": "hffce2c4d82e4e558a9d07860c0f6617",
     "name": "kony.ui.Label",
     "parent": "Form1",
     "pf": "Form1",

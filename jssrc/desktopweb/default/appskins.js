@@ -1,4 +1,8 @@
 function skinsInit() {
+    CopydefLabel0b753eb989f094d = "CopydefLabel0b753eb989f094d";
+    CopydefLabel0e7d8cd683f7d40 = "CopydefLabel0e7d8cd683f7d40";
+    CopydefLabel0h2869345eb8c4d = "CopydefLabel0h2869345eb8c4d";
+    CopydefLabel0j4c2f0f5c78449 = "CopydefLabel0j4c2f0f5c78449";
     defBtnFocus = "defBtnFocus";
     defBtnNormal = "defBtnNormal";
     defLabel = "defLabel";
@@ -6,6 +10,9 @@ function skinsInit() {
     defListBoxNormal = "defListBoxNormal";
     defRichTextLink = "defRichTextLink";
     defRichTextNormal = "defRichTextNormal";
+    lblHeadingAuditLog = "lblHeadingAuditLog";
+    seg2Focus = "seg2Focus";
+    seg2Normal = "seg2Normal";
     slCalendar = "slCalendar";
     slDynamicNotificationForm = "slDynamicNotificationForm";
     slForm = "slForm";
@@ -13,4 +20,5 @@ function skinsInit() {
     slStaticNotificationForm = "slStaticNotificationForm";
     slTitleBar = "slTitleBar";
     slWatchForm = "slWatchForm";
+    sliPhoneSegmentHeader = "sliPhoneSegmentHeader";
 };

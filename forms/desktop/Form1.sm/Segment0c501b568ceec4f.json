@@ -1,0 +1,158 @@
+{
+    "@class": "com.kony.gen.viz.model.container.KVizSegment2",
+    "DNDConfig": null,
+    "__parentReadjusting__": false,
+    "_data_": [
+        {
+            "Button0b1ba331e436a45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "Label0b954b6eb7f6949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "Label0j06c3214cb7c4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            }
+        },
+        {
+            "Button0b1ba331e436a45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "Label0b954b6eb7f6949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "5"
+            },
+            "Label0j06c3214cb7c4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "4"
+            }
+        },
+        {
+            "Button0b1ba331e436a45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "Label0b954b6eb7f6949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "8"
+            },
+            "Label0j06c3214cb7c4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "7"
+            }
+        },
+        {
+            "Button0b1ba331e436a45": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "Button"
+            },
+            "Label0b954b6eb7f6949": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "2"
+            },
+            "Label0j06c3214cb7c4a": {
+                "@class": "com.viz.ide.model.segment.SimpleTextSegmentData",
+                "text": "1"
+            }
+        }
+    ],
+    "_height_": {
+        "type": "string",
+        "value": "120dp"
+    },
+    "_indicator_": "none",
+    "_left_": {
+        "type": "string",
+        "value": "202dp"
+    },
+    "_margin_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_orientation_": 2,
+    "_padding_": [
+        0,
+        0,
+        0,
+        0
+    ],
+    "_top_": {
+        "type": "string",
+        "value": "490dp"
+    },
+    "_width_": {
+        "type": "string",
+        "value": "39.17%"
+    },
+    "autogrowmode": 0,
+    "canUpdateUI": true,
+    "containerweight": 100,
+    "counter": "03",
+    "focusedindex": null,
+    "focuseditem": null,
+    "generatedtemplate": "b81ef80e49164be69a33ba568c9c9d64",
+    "groupcells": false,
+    "hasSections": false,
+    "id": "Segment0c501b568ceec4f",
+    "info": null,
+    "ipad": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iphone": {
+        "psp": {
+            "indicator": "rowselect"
+        }
+    },
+    "iscustomlayout": false,
+    "isvisible": true,
+    "kuid": "e71c3f9e14944eb8ad2aaf9bbd53186f",
+    "masterdata": {},
+    "name": "kony.ui.SegmentedUI2",
+    "needpageindicator": true,
+    "pageoffdotimage": "pageoffdot.png",
+    "pageondotimage": "pageondot.png",
+    "paginationconfig": {
+        "position": "bottom"
+    },
+    "parent": "Form1",
+    "pf": "Form1",
+    "retaincontentalignment": false,
+    "retainflexpositionproperties": false,
+    "retainselection": false,
+    "rowTemplateId": "b81ef80e49164be69a33ba568c9c9d64",
+    "rowcounter": 3,
+    "rowfocusskin": "s02883c94eb34c18b6540cc29e09765d",
+    "rowskin": "s6d20de079194f0a81ab9682b5056838",
+    "rowtemplate": "FBox0e119cfcd4cb943",
+    "screenlevelwidget": false,
+    "seccounter": 0,
+    "sectionheaderskin": "s753abda5a3f49d5948782ba85240007",
+    "selectedRows": null,
+    "selectedState": false,
+    "selectedindex": null,
+    "selectedindices": null,
+    "selecteditems": null,
+    "selectedsectionindex": null,
+    "selectionbehavior": "default",
+    "separatorcolor": "aaaaaa00",
+    "separatorrequired": true,
+    "separatorthickness": 1,
+    "showscrollbars": false,
+    "viewtype": "tableview",
+    "wType": "Segment",
+    "widgetalignment": 5,
+    "widgetdatamap": {
+        "Button0b1ba331e436a45": "Button0b1ba331e436a45",
+        "Label0b954b6eb7f6949": "Label0b954b6eb7f6949",
+        "Label0j06c3214cb7c4a": "Label0j06c3214cb7c4a"
+    },
+    "zindex": 1
+}

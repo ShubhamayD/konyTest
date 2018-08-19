@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "201dp"
+        "value": "194dp"
     },
     "_margin_": [
         1,
@@ -22,11 +22,11 @@
         0,
         0
     ],
-    "_skin_": "s534840db017463f9b9aa1711f5321be",
-    "_text_": "Services",
+    "_skin_": "se3a495436aa4a448834d0d6911bb55a",
+    "_text_": "URL Configuration",
     "_top_": {
         "type": "string",
-        "value": "107dp"
+        "value": "175dp"
     },
     "_width_": {
         "type": "ref",
@@ -41,8 +41,9 @@
     },
     "canUpdateUI": true,
     "containerweight": 100,
-    "contentalignment": 6,
-    "id": "lblServices",
+    "contentalignment": 4,
+    "id": "lblUrlConfiguration",
+    "ide_onTouchStart": "AS_Label_i5f6f93025c945f6bebecca2c14403ff",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,7 +57,7 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "f27b7288c71442b5ba9d06af5bc1e628",
+    "kuid": "c3e32d6f3045459f86481de7f5c8c6ee",
     "name": "kony.ui.Label",
     "parent": "Form1",
     "pf": "Form1",

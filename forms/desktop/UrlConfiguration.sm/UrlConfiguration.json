@@ -42,18 +42,13 @@
     "canUpdateUI": true,
     "canvasWidth": 1200,
     "children": [
-        "lblServices",
-        "lblBroadcastMessage",
-        "lblReleaseVersion",
-        "lblUrlConfiguration",
-        "lblAuditLog",
-        "Segment0c501b568ceec4f"
+        "Label0h2c646b2ad5c44"
     ],
     "containerweight": 100,
     "controllerInfo": {
         "default": {
             "channel": "desktop",
-            "name": "Form1Controller"
+            "name": "UrlConfigurationController"
         }
     },
     "currentLocale": "default",
@@ -63,8 +58,7 @@
     "device": "desktopweb",
     "displayorientation": 1,
     "enabledforidletimeout": false,
-    "id": "Form1",
-    "ide_init": "AS_Form_ae96a9e158c340cc95bcb66e400e5579",
+    "id": "UrlConfiguration",
     "info": null,
     "initdone": false,
     "inputaccessoryviewtype": 4,
@@ -87,7 +81,7 @@
     "kiosk": {
         "needAppMenu": false
     },
-    "kuid": "icf56eef30df4e7a8c4254745668b447",
+    "kuid": "hac04b67eede45e095213caddda272c7",
     "layouttype": 2,
     "name": "kony.ui.Form2",
     "needappmenu": false,

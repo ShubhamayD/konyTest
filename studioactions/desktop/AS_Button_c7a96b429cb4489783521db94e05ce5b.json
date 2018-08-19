@@ -1,0 +1,36 @@
+{
+    "AS_Button_c7a96b429cb4489783521db94e05ce5b": {
+        "id": "AS_Button_c7a96b429cb4489783521db94e05ce5b",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "collection",
+            "name": "context"
+        }],
+        "contextObj": {
+            "name": "FBox0e119cfcd4cb943",
+            "type": "templates",
+            "platform": null,
+            "KUID": "b81ef80e49164be69a33ba568c9c9d64"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "INVOKE_FUNCTION___de8bae9665924e4cb65f1c68dad6bebd",
+            "type": "INVOKE_FUNCTION",
+            "display": "<>",
+            "inputparams": [],
+            "parentId": null,
+            "callbackType": null,
+            "disabled": null,
+            "source": "module"
+        }, {
+            "id": "ADD_SNIPPET__b24c36ea40b4407e998396e24e7b56a3",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": null,
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

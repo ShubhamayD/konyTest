@@ -1,0 +1,43 @@
+{
+    "AS_Label_cabe135cef414ef3806be52456e3533f": {
+        "id": "AS_Label_cabe135cef414ef3806be52456e3533f",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "icf56eef30df4e7a8c4254745668b447"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "ELSE_IF_CONDITION__a78b038ece514f9ea814effeeb4ced2a",
+            "type": "IF_CONDITION",
+            "conditions": [{
+                "leftValueType": "widgetprop",
+                "leftValue": "",
+                "operator": "===",
+                "rightValueType": "widgetprop",
+                "rightValue": ""
+            }],
+            "parentId": null,
+            "callbackType": null,
+            "criteria": "all"
+        }, {
+            "id": "ADD_SNIPPET__d086b9b5393e469e94d6c743dfa7e546",
+            "type": "ADD_SNIPPET",
+            "codeSnippet": "alert(\"Hello\")",
+            "parentId": null,
+            "callbackType": null
+        }]
+    }
+}

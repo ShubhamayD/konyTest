@@ -8,7 +8,7 @@
     },
     "_left_": {
         "type": "string",
-        "value": "202dp"
+        "value": "316dp"
     },
     "_margin_": [
         1,
@@ -23,10 +23,10 @@
         0
     ],
     "_skin_": "se3a495436aa4a448834d0d6911bb55a",
-    "_text_": "Audit log",
+    "_text_": "URL CONFIGURATION",
     "_top_": {
         "type": "string",
-        "value": "395dp"
+        "value": "262dp"
     },
     "_width_": {
         "type": "ref",
@@ -42,7 +42,7 @@
     "canUpdateUI": true,
     "containerweight": 100,
     "contentalignment": 4,
-    "id": "Label0cea958c6dcbf48",
+    "id": "Label0h2c646b2ad5c44",
     "info": null,
     "ipad": {
         "psp": {
@@ -56,10 +56,10 @@
     },
     "iscustomlayout": false,
     "isvisible": true,
-    "kuid": "hffce2c4d82e4e558a9d07860c0f6617",
+    "kuid": "j51c80f807e24341ba4b2868011beec9",
     "name": "kony.ui.Label",
-    "parent": "Form1",
-    "pf": "Form1",
+    "parent": "UrlConfiguration",
+    "pf": "UrlConfiguration",
     "retaincontentalignment": false,
     "retainflexpositionproperties": false,
     "tooltip": "",

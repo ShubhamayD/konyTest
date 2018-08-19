@@ -1,0 +1,35 @@
+{
+    "AS_Label_aa8f9eaf9fcf44718d2166e4ce500391": {
+        "id": "AS_Label_aa8f9eaf9fcf44718d2166e4ce500391",
+        "type": "ACTION_SEQUENCE",
+        "params": [{
+            "datatype": "collection",
+            "name": "eventobject"
+        }, {
+            "datatype": "string",
+            "name": "x"
+        }, {
+            "datatype": "string",
+            "name": "y"
+        }],
+        "contextObj": {
+            "name": "Form1",
+            "type": "forms",
+            "platform": null,
+            "KUID": "icf56eef30df4e7a8c4254745668b447"
+        },
+        "language": "js",
+        "actions": [{
+            "id": "NAVIGATE_TO_FORM___a5a23ecd580e494eb66f8d068da296f2",
+            "type": "NAVIGATE_TO_FORM",
+            "formId": "frmPaylahReleaseVersion",
+            "formKUID": "f46d6b16d0cf4d788fd6377ab21e5c3b",
+            "mappings": {},
+            "mappingsOrder": [],
+            "parentId": "",
+            "callbackType": null,
+            "enableMappingEditor": true,
+            "package": ""
+        }]
+    }
+}
